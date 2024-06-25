@@ -1,0 +1,228 @@
+2024-06-25 14:06:531 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (ac58a4cd6b5776143ad4419643ff13b1)] -> name: username]
+2024-06-25 14:06:728 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (ac58a4cd6b5776143ad4419643ff13b1)] -> name: password]
+2024-06-25 14:06:916 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (ac58a4cd6b5776143ad4419643ff13b1)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:259 INFO  DashboardPage :17 - Get dashboard textDashboard
+2024-06-25 14:06:496 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:151 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (9edee8cd2884231896ad38884db88902)] -> name: username]
+2024-06-25 14:06:374 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (9edee8cd2884231896ad38884db88902)] -> name: password]
+2024-06-25 14:06:463 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (9edee8cd2884231896ad38884db88902)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:464 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:05 INFO  HomePage :29 - check logo is displayed or not[[ChromeDriver: chrome on windows (9edee8cd2884231896ad38884db88902)] -> xpath: //img[@alt='client brand banner']]
+2024-06-25 14:06:237 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:08 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (b701dd67b4e123528cf6c1b50643c26f)] -> name: username]
+2024-06-25 14:06:219 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (b701dd67b4e123528cf6c1b50643c26f)] -> name: password]
+2024-06-25 14:06:314 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (b701dd67b4e123528cf6c1b50643c26f)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:314 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:981 INFO  LoginPage :53 - Click on profile logo[[ChromeDriver: chrome on windows (b701dd67b4e123528cf6c1b50643c26f)] -> xpath: //img[@class='oxd-userdropdown-img']]
+2024-06-25 14:06:222 INFO  LoginPage :58 - Mouse Hover to Logout and click [[ChromeDriver: chrome on windows (b701dd67b4e123528cf6c1b50643c26f)] -> xpath: //ul[@class='oxd-dropdown-menu']//li//a[text()='Logout']]
+2024-06-25 14:06:546 INFO  LoginPage :62 - Get login textLogin
+2024-06-25 14:06:762 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:161 INFO  LoginPage :68 - Enter username: to username field[[ChromeDriver: chrome on windows (20319398891a017c8a42a40816f33a56)] -> name: username]
+2024-06-25 14:06:279 INFO  LoginPage :73 - Enter password: to password field[[ChromeDriver: chrome on windows (20319398891a017c8a42a40816f33a56)] -> name: password]
+2024-06-25 14:06:397 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (20319398891a017c8a42a40816f33a56)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:452 INFO  LoginPage :96 - Get UserName Field Error Message Required
+2024-06-25 14:06:634 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:523 INFO  LoginPage :68 - Enter username: prime1042@gmail.comto username field[[ChromeDriver: chrome on windows (b3155ac3ac890bbd0d9742f26564669f)] -> name: username]
+2024-06-25 14:06:647 INFO  LoginPage :73 - Enter password: to password field[[ChromeDriver: chrome on windows (b3155ac3ac890bbd0d9742f26564669f)] -> name: password]
+2024-06-25 14:06:734 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (b3155ac3ac890bbd0d9742f26564669f)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:787 INFO  LoginPage :101 - Get Password Field Error Message Required
+2024-06-25 14:06:05 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:483 INFO  LoginPage :68 - Enter username: to username field[[ChromeDriver: chrome on windows (de24902e1739e3cf9006ae402dca6e60)] -> name: username]
+2024-06-25 14:06:684 INFO  LoginPage :73 - Enter password: Prime@123to password field[[ChromeDriver: chrome on windows (de24902e1739e3cf9006ae402dca6e60)] -> name: password]
+2024-06-25 14:06:780 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (de24902e1739e3cf9006ae402dca6e60)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:836 INFO  LoginPage :96 - Get UserName Field Error Message Required
+2024-06-25 14:06:88 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:78 INFO  LoginPage :68 - Enter username: prime1042@gmail.comto username field[[ChromeDriver: chrome on windows (f905abbf43164c12110de688ad08f65f)] -> name: username]
+2024-06-25 14:06:273 INFO  LoginPage :73 - Enter password: Prime@123to password field[[ChromeDriver: chrome on windows (f905abbf43164c12110de688ad08f65f)] -> name: password]
+2024-06-25 14:06:368 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (f905abbf43164c12110de688ad08f65f)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:223 INFO  LoginPage :106 - Get Invalid Credentials Error MessageInvalid credentials
+2024-06-25 14:06:446 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:313 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> name: username]
+2024-06-25 14:06:502 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> name: password]
+2024-06-25 14:06:595 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:596 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:303 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:703 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:164 INFO  ViewSystemUsersPage :93 - Click on add button [[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> xpath: //i[@class='oxd-icon bi-plus oxd-button-icon']]
+2024-06-25 14:06:505 INFO  ViewSystemUsersPage :97 - Get add user text Add User
+2024-06-25 14:06:715 INFO  AddUserPage :76 - Select option 'Admin' from user role dropdown field[[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:24 INFO  AddUserPage :135 - Enter Employee nameRanga Akunuri and select EmployeeName [[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> xpath: //input[@placeholder='Type for hints...']]
+2024-06-25 14:06:237 INFO  AddUserPage :94 - Enter username: rangaSoniyato username field [[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:516 INFO  AddUserPage :88 - Select status option 'Disabled' from status dropdown field
+2024-06-25 14:06:705 INFO  AddUserPage :100 - Enter password to password field [[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Password']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:875 INFO  AddUserPage :105 - Enter password to password field [[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Confirm Password']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:993 INFO  AddUserPage :111 - Click on save button [[ChromeDriver: chrome on windows (7cb9cd8a0661b8037b2580bd3a29bdd6)] -> xpath: //button[normalize-space()='Save']]
+2024-06-25 14:06:527 INFO  AddUserPage :120 - Get Successfully Saved TextSuccessfully Saved
+2024-06-25 14:06:777 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:481 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (2d4c13a0e676cc015795b7c2a9a8fe38)] -> name: username]
+2024-06-25 14:06:714 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (2d4c13a0e676cc015795b7c2a9a8fe38)] -> name: password]
+2024-06-25 14:06:822 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (2d4c13a0e676cc015795b7c2a9a8fe38)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:823 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:696 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (2d4c13a0e676cc015795b7c2a9a8fe38)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:49 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:236 INFO  ViewSystemUsersPage :114 - Enter username: rangaSoniyato username field [[ChromeDriver: chrome on windows (2d4c13a0e676cc015795b7c2a9a8fe38)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:450 INFO  ViewSystemUsersPage :126 - Select option 'Admin' from user role dropdown field [[ChromeDriver: chrome on windows (2d4c13a0e676cc015795b7c2a9a8fe38)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:629 INFO  ViewSystemUsersPage :140 - Select status option 'Disabled' from status dropdown field[[ChromeDriver: chrome on windows (2d4c13a0e676cc015795b7c2a9a8fe38)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='Status']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:719 INFO  ViewSystemUsersPage :103 - Click on search button [[ChromeDriver: chrome on windows (2d4c13a0e676cc015795b7c2a9a8fe38)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 14:06:843 INFO  ViewSystemUsersPage :149 - Get UserName found textrangaSoniya
+2024-06-25 14:06:264 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:520 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> name: username]
+2024-06-25 14:06:707 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> name: password]
+2024-06-25 14:06:796 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:796 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:346 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:733 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:931 INFO  ViewSystemUsersPage :114 - Enter username: rangaSoniyato username field [[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:146 INFO  ViewSystemUsersPage :126 - Select option 'Admin' from user role dropdown field [[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:335 INFO  ViewSystemUsersPage :140 - Select status option 'Disabled' from status dropdown field[[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='Status']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:431 INFO  ViewSystemUsersPage :103 - Click on search button [[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 14:06:492 INFO  ViewSystemUsersPage :149 - Get UserName found textrangaSoniya
+2024-06-25 14:06:622 INFO  ViewSystemUsersPage :155 - Click on checkbox from user want to delete[[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> xpath: //div[@class='oxd-table-card-cell-checkbox']]
+2024-06-25 14:06:714 INFO  ViewSystemUsersPage :160 - Click on delete button from user want to delete [[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> xpath: //button[@class='oxd-icon-button oxd-table-cell-action-space']/i[@class='oxd-icon bi-trash']]
+2024-06-25 14:06:814 INFO  ViewSystemUsersPage :165 - Click on YesDelete Button from popup [[ChromeDriver: chrome on windows (06fc674b56c938614794284c10308c90)] -> xpath: //div[@role='document']//div[@class='orangehrm-modal-footer']/button[2]]
+2024-06-25 14:06:157 INFO  ViewSystemUsersPage :169 - Get Successfully deleted message  Successfully Deleted
+2024-06-25 14:06:379 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:262 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> name: username]
+2024-06-25 14:06:439 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> name: password]
+2024-06-25 14:06:529 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:530 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:609 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:31 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:175 INFO  ViewSystemUsersPage :114 - Enter username: Adminto username field [[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:393 INFO  ViewSystemUsersPage :126 - Select option 'Admin' from user role dropdown field [[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:826 INFO  ViewSystemUsersPage :184 - Enter Employee namemanda akhil user and select EmployeeName [[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> xpath: //input[@placeholder='Type for hints...']]
+2024-06-25 14:06:65 INFO  ViewSystemUsersPage :140 - Select status option 'Enabled' from status dropdown field[[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='Status']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:213 INFO  ViewSystemUsersPage :103 - Click on search button [[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 14:06:277 INFO  ViewSystemUsersPage :144 - Get record found text(1) Record Found
+2024-06-25 14:06:357 INFO  ViewSystemUsersPage :149 - Get UserName found textAdmin
+2024-06-25 14:06:491 INFO  ViewSystemUsersPage :109 - Click on reset button [[ChromeDriver: chrome on windows (0dde3d76140bdeda9cb3141fa8fb4c7a)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 14:06:856 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:843 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> name: username]
+2024-06-25 14:06:41 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> name: password]
+2024-06-25 14:06:317 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:321 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:842 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:176 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:379 INFO  ViewSystemUsersPage :114 - Enter username: FMLNameto username field [[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:616 INFO  ViewSystemUsersPage :126 - Select option 'ESS' from user role dropdown field [[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:31 INFO  ViewSystemUsersPage :184 - Enter Employee nameQwerty Qwerty LName and select EmployeeName [[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> xpath: //input[@placeholder='Type for hints...']]
+2024-06-25 14:06:288 INFO  ViewSystemUsersPage :140 - Select status option 'Enabled' from status dropdown field[[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='Status']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:393 INFO  ViewSystemUsersPage :103 - Click on search button [[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 14:06:451 INFO  ViewSystemUsersPage :144 - Get record found text(1) Record Found
+2024-06-25 14:06:519 INFO  ViewSystemUsersPage :149 - Get UserName found textFMLName
+2024-06-25 14:06:637 INFO  ViewSystemUsersPage :109 - Click on reset button [[ChromeDriver: chrome on windows (db651e046ff53c8819d80c1cfa9b4890)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 14:06:11 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:720 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (de834adbad0a1f7ac786a31cbf4177d6)] -> name: username]
+2024-06-25 14:06:858 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (de834adbad0a1f7ac786a31cbf4177d6)] -> name: password]
+2024-06-25 14:06:879 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (de834adbad0a1f7ac786a31cbf4177d6)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:185 INFO  DashboardPage :17 - Get dashboard textDashboard
+2024-06-25 14:06:356 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:518 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (852257a55fcd2ce510ee256c7cb637c5)] -> name: username]
+2024-06-25 14:06:641 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (852257a55fcd2ce510ee256c7cb637c5)] -> name: password]
+2024-06-25 14:06:662 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (852257a55fcd2ce510ee256c7cb637c5)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:663 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:910 INFO  HomePage :29 - check logo is displayed or not[[ChromeDriver: chrome on windows (852257a55fcd2ce510ee256c7cb637c5)] -> xpath: //img[@alt='client brand banner']]
+2024-06-25 14:06:86 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:241 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (d9475c14c6b400143f4cd91f2a94d5a7)] -> name: username]
+2024-06-25 14:06:363 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (d9475c14c6b400143f4cd91f2a94d5a7)] -> name: password]
+2024-06-25 14:06:326 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (d9475c14c6b400143f4cd91f2a94d5a7)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:327 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:641 INFO  LoginPage :53 - Click on profile logo[[ChromeDriver: chrome on windows (d9475c14c6b400143f4cd91f2a94d5a7)] -> xpath: //img[@class='oxd-userdropdown-img']]
+2024-06-25 14:06:655 INFO  LoginPage :58 - Mouse Hover to Logout and click [[ChromeDriver: chrome on windows (d9475c14c6b400143f4cd91f2a94d5a7)] -> xpath: //ul[@class='oxd-dropdown-menu']//li//a[text()='Logout']]
+2024-06-25 14:06:877 INFO  LoginPage :62 - Get login textLogin
+2024-06-25 14:06:65 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:292 INFO  LoginPage :68 - Enter username: to username field[[ChromeDriver: chrome on windows (b18938ac4ce48d2b6b4297352ff33385)] -> name: username]
+2024-06-25 14:06:376 INFO  LoginPage :73 - Enter password: to password field[[ChromeDriver: chrome on windows (b18938ac4ce48d2b6b4297352ff33385)] -> name: password]
+2024-06-25 14:06:448 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (b18938ac4ce48d2b6b4297352ff33385)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:482 INFO  LoginPage :96 - Get UserName Field Error Message Required
+2024-06-25 14:06:625 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:786 INFO  LoginPage :68 - Enter username: prime1042@gmail.comto username field[[ChromeDriver: chrome on windows (3869bf1f3eccca3df2257b7df65c31ca)] -> name: username]
+2024-06-25 14:06:858 INFO  LoginPage :73 - Enter password: to password field[[ChromeDriver: chrome on windows (3869bf1f3eccca3df2257b7df65c31ca)] -> name: password]
+2024-06-25 14:06:912 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (3869bf1f3eccca3df2257b7df65c31ca)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:949 INFO  LoginPage :101 - Get Password Field Error Message Required
+2024-06-25 14:06:114 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:165 INFO  LoginPage :68 - Enter username: to username field[[ChromeDriver: chrome on windows (f165db882640217fb55557d6b85b26c6)] -> name: username]
+2024-06-25 14:06:290 INFO  LoginPage :73 - Enter password: Prime@123to password field[[ChromeDriver: chrome on windows (f165db882640217fb55557d6b85b26c6)] -> name: password]
+2024-06-25 14:06:364 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (f165db882640217fb55557d6b85b26c6)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:408 INFO  LoginPage :96 - Get UserName Field Error Message Required
+2024-06-25 14:06:602 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:977 INFO  LoginPage :68 - Enter username: prime1042@gmail.comto username field[[ChromeDriver: chrome on windows (d79e423c244eb200dcb08ba17516a7d9)] -> name: username]
+2024-06-25 14:06:105 INFO  LoginPage :73 - Enter password: Prime@123to password field[[ChromeDriver: chrome on windows (d79e423c244eb200dcb08ba17516a7d9)] -> name: password]
+2024-06-25 14:06:164 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (d79e423c244eb200dcb08ba17516a7d9)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:958 INFO  LoginPage :106 - Get Invalid Credentials Error MessageInvalid credentials
+2024-06-25 14:06:140 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:488 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> name: username]
+2024-06-25 14:06:622 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> name: password]
+2024-06-25 14:06:684 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:685 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:88 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:339 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:771 INFO  ViewSystemUsersPage :93 - Click on add button [[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> xpath: //i[@class='oxd-icon bi-plus oxd-button-icon']]
+2024-06-25 14:06:35 INFO  ViewSystemUsersPage :97 - Get add user text Add User
+2024-06-25 14:06:154 INFO  AddUserPage :76 - Select option 'Admin' from user role dropdown field[[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:355 INFO  AddUserPage :135 - Enter Employee nameRanga Akunuri and select EmployeeName [[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> xpath: //input[@placeholder='Type for hints...']]
+2024-06-25 14:06:443 INFO  AddUserPage :94 - Enter username: Jigarto username field [[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:592 INFO  AddUserPage :88 - Select status option 'Disabled' from status dropdown field
+2024-06-25 14:06:703 INFO  AddUserPage :100 - Enter password to password field [[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Password']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:818 INFO  AddUserPage :105 - Enter password to password field [[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Confirm Password']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:874 INFO  AddUserPage :111 - Click on save button [[ChromeDriver: chrome on windows (085f3783078eae88e9f4276211b01cd8)] -> xpath: //button[normalize-space()='Save']]
+2024-06-25 14:06:471 INFO  AddUserPage :120 - Get Successfully Saved TextSuccessfully Saved
+2024-06-25 14:06:746 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:03 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (862c0505d9b99ddb79bcc5cc9d54929f)] -> name: username]
+2024-06-25 14:06:114 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (862c0505d9b99ddb79bcc5cc9d54929f)] -> name: password]
+2024-06-25 14:06:221 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (862c0505d9b99ddb79bcc5cc9d54929f)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:221 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:773 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (862c0505d9b99ddb79bcc5cc9d54929f)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:58 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:177 INFO  ViewSystemUsersPage :114 - Enter username: Jigarto username field [[ChromeDriver: chrome on windows (862c0505d9b99ddb79bcc5cc9d54929f)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:293 INFO  ViewSystemUsersPage :126 - Select option 'Admin' from user role dropdown field [[ChromeDriver: chrome on windows (862c0505d9b99ddb79bcc5cc9d54929f)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:443 INFO  ViewSystemUsersPage :140 - Select status option 'Disabled' from status dropdown field[[ChromeDriver: chrome on windows (862c0505d9b99ddb79bcc5cc9d54929f)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='Status']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:493 INFO  ViewSystemUsersPage :103 - Click on search button [[ChromeDriver: chrome on windows (862c0505d9b99ddb79bcc5cc9d54929f)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 14:06:534 INFO  ViewSystemUsersPage :149 - Get UserName found textJigar
+2024-06-25 14:06:761 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:902 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> name: username]
+2024-06-25 14:06:22 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> name: password]
+2024-06-25 14:06:75 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:76 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:685 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:05 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:123 INFO  ViewSystemUsersPage :114 - Enter username: Jigarto username field [[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:258 INFO  ViewSystemUsersPage :126 - Select option 'Admin' from user role dropdown field [[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:376 INFO  ViewSystemUsersPage :140 - Select status option 'Disabled' from status dropdown field[[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='Status']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:424 INFO  ViewSystemUsersPage :103 - Click on search button [[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 14:06:457 INFO  ViewSystemUsersPage :149 - Get UserName found textJigar
+2024-06-25 14:06:520 INFO  ViewSystemUsersPage :155 - Click on checkbox from user want to delete[[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> xpath: //div[@class='oxd-table-card-cell-checkbox']]
+2024-06-25 14:06:584 INFO  ViewSystemUsersPage :160 - Click on delete button from user want to delete [[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> xpath: //button[@class='oxd-icon-button oxd-table-cell-action-space']/i[@class='oxd-icon bi-trash']]
+2024-06-25 14:06:640 INFO  ViewSystemUsersPage :165 - Click on YesDelete Button from popup [[ChromeDriver: chrome on windows (84c1d8f0e6f2e22d2900266b4b9841f8)] -> xpath: //div[@role='document']//div[@class='orangehrm-modal-footer']/button[2]]
+2024-06-25 14:06:913 INFO  ViewSystemUsersPage :169 - Get Successfully deleted message  Successfully Deleted
+2024-06-25 14:06:100 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:219 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> name: username]
+2024-06-25 14:06:341 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> name: password]
+2024-06-25 14:06:286 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:286 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:678 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:982 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:80 INFO  ViewSystemUsersPage :114 - Enter username: Adminto username field [[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:219 INFO  ViewSystemUsersPage :126 - Select option 'Admin' from user role dropdown field [[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:461 INFO  ViewSystemUsersPage :184 - Enter Employee namemanda akhil user and select EmployeeName [[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> xpath: //input[@placeholder='Type for hints...']]
+2024-06-25 14:06:593 INFO  ViewSystemUsersPage :140 - Select status option 'Enabled' from status dropdown field[[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='Status']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:654 INFO  ViewSystemUsersPage :103 - Click on search button [[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 14:06:707 INFO  ViewSystemUsersPage :144 - Get record found text(1) Record Found
+2024-06-25 14:06:748 INFO  ViewSystemUsersPage :149 - Get UserName found textAdmin
+2024-06-25 14:06:844 INFO  ViewSystemUsersPage :109 - Click on reset button [[ChromeDriver: chrome on windows (fae1de07a3798bb71b872015f287596a)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 14:06:71 INFO  ManageBrowser :48 - Close Browser
+2024-06-25 14:06:286 INFO  LoginPage :68 - Enter username: Adminto username field[[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> name: username]
+2024-06-25 14:06:423 INFO  LoginPage :73 - Enter password: admin123to password field[[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> name: password]
+2024-06-25 14:06:384 INFO  LoginPage :79 - Click on login button[[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> class name: orangehrm-login-button]
+2024-06-25 14:06:384 INFO  LoginPage :92 - Login to application
+2024-06-25 14:06:814 INFO  HomePage :25 - Click on admin tab [[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> xpath: //ul[@class='oxd-main-menu']/li[1]/a]
+2024-06-25 14:06:58 INFO  ViewSystemUsersPage :87 - Get system user text System Users
+2024-06-25 14:06:184 INFO  ViewSystemUsersPage :114 - Enter username: FMLNameto username field [[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> xpath: //div[@class='oxd-input-group__label-wrapper']//label[text()='Username']/following::div[1]/input[@class='oxd-input oxd-input--active']]
+2024-06-25 14:06:347 INFO  ViewSystemUsersPage :126 - Select option 'ESS' from user role dropdown field [[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='User Role']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:600 INFO  ViewSystemUsersPage :184 - Enter Employee nameQwerty Qwerty LName and select EmployeeName [[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> xpath: //input[@placeholder='Type for hints...']]
+2024-06-25 14:06:734 INFO  ViewSystemUsersPage :140 - Select status option 'Enabled' from status dropdown field[[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//label[text()='Status']/following::div[@class='oxd-select-wrapper'][1]]
+2024-06-25 14:06:805 INFO  ViewSystemUsersPage :103 - Click on search button [[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 14:06:875 INFO  ViewSystemUsersPage :144 - Get record found text(1) Record Found
+2024-06-25 14:06:924 INFO  ViewSystemUsersPage :149 - Get UserName found textFMLName
+2024-06-25 14:06:998 INFO  ViewSystemUsersPage :109 - Click on reset button [[ChromeDriver: chrome on windows (48fb73ac94102a98047e70d884880a3f)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 14:06:274 INFO  ManageBrowser :48 - Close Browser
